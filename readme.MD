@@ -35,10 +35,7 @@ This ASCII art represents a decorative header for the output, providing a visual
 
 - **stack_frame() Function Call**: Calls `stack_frame()`, declaring its own `stack_variable` locally with an address at 0x7ffd2c088ba4. This address is lower than `stack_variable` in `main()`, reflecting stack's LIFO order.
 
----
-Certainly! Here's how you can convert the explanation of a stack frame into a README format:
 
----
 
 # Stack Frame Overview
 
